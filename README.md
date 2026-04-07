@@ -1,2 +1,2 @@
-# Sprint_1
-Primer Sprint de la Especialidad de AADD
+# Especialidad AADD
+Repo para entregar Sprints de la Especialidad de AADD
